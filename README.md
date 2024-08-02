@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ma Première Page HTML</title>
+</head>
+<body>
+    <h1>Bonjour, le monde !</h1>
+</body>
+</html>
